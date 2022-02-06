@@ -1,0 +1,162 @@
+c:\users\zeynel\documents\visual studio 2010\Projects\proje\proje\obj\x86\Debug\proje.Properties.Resources.resources
+c:\users\zeynel\documents\visual studio 2010\Projects\proje\proje\obj\x86\Debug\proje.csproj.GenerateResource.Cache
+c:\users\zeynel\documents\visual studio 2010\Projects\proje\proje\bin\Debug\proje.exe
+c:\users\zeynel\documents\visual studio 2010\Projects\proje\proje\bin\Debug\proje.pdb
+c:\users\zeynel\documents\visual studio 2010\Projects\proje\proje\obj\x86\Debug\proje.Form1.resources
+c:\users\zeynel\documents\visual studio 2010\Projects\proje\proje\obj\x86\Debug\proje.exe
+c:\users\zeynel\documents\visual studio 2010\Projects\proje\proje\obj\x86\Debug\proje.pdb
+c:\users\zeynel\documents\visual studio 2010\Projects\proje\proje\obj\x86\Debug\proje.şarzdoldurma.resources
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\obj\x86\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\obj\x86\Debug\proje.rehber.resources
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\obj\x86\Debug\proje.rehber_ekle.resources
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\obj\x86\Debug\proje.müzikcalar.resources
+C:\Users\Zeynel\Documents\Visual Studio 2010\Projects\proje\proje\obj\x86\Debug\proje.güncelle.resources
+D:\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+D:\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+D:\proje\proje\obj\x86\Debug\proje.exe
+D:\proje\proje\obj\x86\Debug\proje.pdb
+D:\proje\proje\bin\Debug\proje.exe
+D:\proje\proje\bin\Debug\proje.pdb
+D:\proje\proje\bin\Debug\Interop.WMPLib.dll
+D:\proje\proje\bin\Debug\AxInterop.WMPLib.dll
+D:\proje\proje\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\proje\proje\obj\x86\Debug\proje.Form1.resources
+D:\proje\proje\obj\x86\Debug\proje.güncelle.resources
+D:\proje\proje\obj\x86\Debug\proje.müzikcalar.resources
+D:\proje\proje\obj\x86\Debug\proje.Properties.Resources.resources
+D:\proje\proje\obj\x86\Debug\proje.rehber.resources
+D:\proje\proje\obj\x86\Debug\proje.rehber_ekle.resources
+D:\proje\proje\obj\x86\Debug\proje.şarzdoldurma.resources
+D:\proje\proje\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\proje\proje\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+E:\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+E:\proje\proje\obj\x86\Debug\proje.exe
+E:\proje\proje\obj\x86\Debug\proje.pdb
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.exe
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.pdb
+C:\Users\Zeynel\Desktop\proje\proje\bin\Debug\proje.exe
+C:\Users\Zeynel\Desktop\proje\proje\bin\Debug\proje.pdb
+C:\Users\Zeynel\Desktop\proje\proje\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zeynel\Desktop\proje\proje\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.csprojResolveAssemblyReference.cache
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.Form1.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.güncelle.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.Properties.Resources.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.rehber.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.rehber_ekle.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.şarzdoldurma.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.csproj.GenerateResource.Cache
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.Ayarlar.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.mailgonderme.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.epostaekle.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.gonderme.resources
+C:\Users\Zeynel\Desktop\proje\proje\obj\x86\Debug\proje.değiştir.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.exe
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.pdb
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\proje.exe
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\proje.pdb
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Ayarlar.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.değiştir.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.epostaekle.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Form1.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.gonderme.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.güncelle.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.mailgonderme.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Properties.Resources.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.rehber.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.rehber_ekle.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.şarzdoldurma.resources
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.GenerateResource.Cache
+Z:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+Z:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+Z:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+Z:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.exe
+Z:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.pdb
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.exe
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.pdb
+E:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\proje.exe
+E:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\proje.pdb
+E:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\Interop.WMPLib.dll
+E:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\AxInterop.WMPLib.dll
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Ayarlar.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.değiştir.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.epostaekle.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Form1.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.gonderme.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.güncelle.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.mailgonderme.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Properties.Resources.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.rehber.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.rehber_ekle.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.şarzdoldurma.resources
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.GenerateResource.Cache
+G:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\proje.exe
+G:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\proje.pdb
+G:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\Interop.WMPLib.dll
+G:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\AxInterop.WMPLib.dll
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csprojAssemblyReference.cache
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Ayarlar.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.değiştir.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.epostaekle.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Form1.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.gonderme.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.güncelle.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.mailgonderme.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Properties.Resources.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.rehber.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.rehber_ekle.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.şarzdoldurma.resources
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.GenerateResource.cache
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.CoreCompileInputs.cache
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.exe
+G:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.pdb
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csprojAssemblyReference.cache
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csprojAssemblyReference.cache
+C:\Users\Zeynel\Desktop\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.CoreCompileInputs.cache
+D:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\proje.exe
+D:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\proje.pdb
+D:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\Interop.WMPLib.dll
+D:\Zeynel Şahin 5036 T11A\proje\proje\bin\Debug\AxInterop.WMPLib.dll
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csprojAssemblyReference.cache
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\Interop.WMPLib.dll
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.ResolveComReference.cache
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Ayarlar.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.değiştir.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.epostaekle.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Form1.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.gonderme.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.güncelle.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.mailgonderme.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.Properties.Resources.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.rehber.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.rehber_ekle.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.şarzdoldurma.resources
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.GenerateResource.cache
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.CoreCompileInputs.cache
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.exe
+D:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.pdb
+E:\Zeynel Şahin 5036 T11A\proje\proje\obj\x86\Debug\proje.csproj.AssemblyReference.cache

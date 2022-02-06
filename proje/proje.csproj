@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4A1874BE-511B-4C82-A383-90740C761547}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>proje</RootNamespace>
+    <AssemblyName>proje</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayarlar.Designer.cs">
+      <DependentUpon>Ayarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="değiştir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="değiştir.Designer.cs">
+      <DependentUpon>değiştir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="epostaekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="epostaekle.Designer.cs">
+      <DependentUpon>epostaekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gonderme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gonderme.Designer.cs">
+      <DependentUpon>gonderme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="güncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="güncelle.Designer.cs">
+      <DependentUpon>güncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mailgonderme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mailgonderme.Designer.cs">
+      <DependentUpon>mailgonderme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rehber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rehber.Designer.cs">
+      <DependentUpon>rehber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rehber_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rehber_ekle.Designer.cs">
+      <DependentUpon>rehber_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="şarzdoldurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="şarzdoldurma.Designer.cs">
+      <DependentUpon>şarzdoldurma.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ayarlar.resx">
+      <DependentUpon>Ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="değiştir.resx">
+      <DependentUpon>değiştir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="epostaekle.resx">
+      <DependentUpon>epostaekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gonderme.resx">
+      <DependentUpon>gonderme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="güncelle.resx">
+      <DependentUpon>güncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mailgonderme.resx">
+      <DependentUpon>mailgonderme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rehber.resx">
+      <DependentUpon>rehber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rehber_ekle.resx">
+      <DependentUpon>rehber_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="şarzdoldurma.resx">
+      <DependentUpon>şarzdoldurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\105-User-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\ekle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\yes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\çarpı.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\çarpı1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\settings_big_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\posta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\posta - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\resim\settings_big_1x - Kopya.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
